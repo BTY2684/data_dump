@@ -1,0 +1,304 @@
+group_prod_code,instr_type,algo_reg_prod_type_desc,local_prod_code,Local_Product_Description,ccf,final_ccf, _FREQ_ , eop_bal_Sum , final_ead_Sum 
+AODS,Revolver,RP_Commitment not LOC,CUA,,0.57,0.57," 60,124 ","-1,380,280,465 "," 6,718,801,293 "
+AODS,Revolver,RP_Commitment not LOC,355,LE Negotiated IBCA,0.57,0.57," 11,042 "," 1,020,627,528 "," 3,203,164,467 "
+AODS,Revolver,RP_Commitment not LOC,344,SME Negotiated Reg IBCA,0.57,0.57," 62,920 "," 1,408,495,861 "," 2,256,602,833 "
+AODS,Revolver,RP_Commitment not LOC,349,SBT Regulated IBCA,0.57,0.57," 43,680 "," 434,600,324 "," 485,040,640 "
+AODS,Revolver,RP_Commitment not LOC,354,LE Negotiated NIBCA,0.57,0.57," 1,179 "," 77,464,864 "," 237,535,539 "
+AODS,Revolver,RP_Commitment not LOC,350,SME Negotiated NIBCA,0.57,0.57," 4,627 "," 176,280,615 "," 210,998,855 "
+AODS,Revolver,RP_Commitment not LOC,356,SME Negotiated IBCA,0.57,0.57," 1,332 "," 25,711,091 "," 101,276,294 "
+AODS,Revolver,RP_Commitment not LOC,67,SME C/A DIRECT,0.57,0.57," 2,890 "," 26,526,831 "," 24,193,938 "
+AODS,Revolver,RP_Commitment not LOC,100,Community IBCA,0.57,0.57, 438 ," 1,344,004 "," 10,366,385 "
+AODS,Revolver,RP_Commitment not LOC,359,FSA SME Negotiated Reg IBCA,0.57,0.57, 314 ," 7,795,033 "," 9,896,590 "
+AODS,Revolver,RP_Commitment not LOC,363,FSA SBT Regulated IBCA,0.57,0.57, 259 ," 6,309,311 "," 6,730,323 "
+AODS,Revolver,RP_Commitment not LOC,423,Switcher Neg Reg IBCA,0.57,0.57, 174 ," 4,299,246 "," 6,176,999 "
+AODS,Revolver,RP_Commitment not LOC,346,SBT NIBCA,0.57,0.57, 159 ," 2,435,024 "," 2,197,894 "
+AODS,Revolver,RP_Commitment not LOC,357,Switchers NIBCA,0.57,0.57, 254 ," 1,388,245 "," 1,825,484 "
+AODS,Missing,,344,SME Negotiated Reg IBCA,0,0.57, 13 ," 1,282,146 "," 1,554,241 "
+AODS,Revolver,RP_Commitment not LOC,422,Start Up Neg NIBCA,0.57,0.57, 56 ," 313,053 "," 662,239 "
+AODS,Revolver,RP_Commitment not LOC,EFT,HUB C/A FOR EFT,0.57,0.57," 98,781 "," 34,052 "," 469,290 "
+AODS,Revolver,RP_Commitment not LOC,57,START UP DIRECT CR INT,0.57,0.57, 424 ," 417,263 "," 369,653 "
+AODS,Revolver,RP_Commitment not LOC,348,Switcher Reg IBCA,0.57,0.57, 51 ," 127,956 "," 311,239 "
+AODS,Revolver,RP_Commitment not LOC,364,FSA SME Negotiated NIBCA,0.57,0.57, 8 ," 267,928 "," 303,240 "
+AODS,Missing,,350,SME Negotiated NIBCA,0,0.57, 3 ," 120,169 "," 205,669 "
+AODS,Revolver,RP_Commitment not LOC,415,FSA SME Negotiated IBCA,0.57,0.57, 1 , -   ," 114,381 "
+AODS,Missing,,355,LE Negotiated IBCA,0,0.57, 1 ," 100,000 "," 100,000 "
+AODS,Revolver,RP_Commitment not LOC,97,FSA SME C/A DIRECT,0.57,0.57, 6 ," 114,126 "," 92,400 "
+AODS,Revolver,RP_Commitment not LOC,62,SWITCHER DIRECT,0.57,0.57, 119 ," 153,637 "," 79,374 "
+AODS,Missing,,349,SBT Regulated IBCA,0,0.57, 10 ," 56,227 "," 74,532 "
+AODS,Revolver,RP_Commitment not LOC,91,Start Up NIBCA,0.57,0.57, 12 ," 10,233 "," 60,497 "
+AODS,Revolver,RP_Commitment not LOC,64,SME C/A DIRECT ABATEMENT,0.57,0.57, 9 ," 55,557 "," 55,148 "
+AODS,Revolver,RP_Commitment not LOC,360,FSA SBT NIBCA,0.57,0.57, 1 ," 50,215 "," 50,717 "
+AODS,Revolver,RP_Commitment not LOC,101,Community NIBCA,0.57,0.57, 4 , 12 ," 37,055 "
+AODS,Revolver,RP_Commitment not LOC,362,FSA Switcher Reg IBCA,0.57,0.57, 1 ," 7,143 "," 20,183 "
+AODS,Missing,,363,FSA SBT Regulated IBCA,0,0.57, 1 , -   ," 5,703 "
+AODS,Revolver,RP_Commitment not LOC,347,Start Up Reg IBCA,0.57,0.57, 2 , -   ," 2,850 "
+AODS,Revolver,RP_Commitment not LOC,CRO,,0.57,0.57, 62 ,"-10,640,696 ", 694 
+AODS,Revolver,RP_Commitment not LOC,424,Switcher Neg IBCA,0.57,0.57, 1 , -   , 239 
+AODS,Missing,,344,SME Negotiated Reg IBCA,0,0, 2 , -   , -   
+AODS,Revolver,,67,SME C/A DIRECT,0.57,0.57, 1 , -   , -   
+AODS,Revolver,,344,SME Negotiated Reg IBCA,0.57,0.57, 110 , -   , -   
+AODS,Revolver,,346,SBT NIBCA,0.57,0.57, 1 , -   , -   
+AODS,Revolver,,349,SBT Regulated IBCA,0.57,0.57, 88 , -   , -   
+AODS,Revolver,,350,SME Negotiated NIBCA,0.57,0.57, 13 , -   , -   
+AODS,Revolver,,355,LE Negotiated IBCA,0.57,0.57, 10 , -   , -   
+AODS,Revolver,,359,FSA SME Negotiated Reg IBCA,0.57,0.57, 1 , -   , -   
+AODS,Revolver,,363,FSA SBT Regulated IBCA,0.57,0.57, 1 , -   , -   
+AODS,Revolver,,CUA,,0.57,0.57, 4 , -   , -   
+AODS,Revolver,RP_Commitment not LOC,39,FSA START UP DIRECT,0.57,0.57, 1 , -   , -   
+AODS,Revolver,RP_Commitment not LOC,425,Start Up Neg Reg IBCA,0.57,0.57, 1 , -   , -   
+AODS,Revolver,RP_Commitment not LOC,MID,,0.57,0.57, 15 , -   , -   
+ALNS,Term Loan,RP_Loan and Deposit,MMLYA,,0,0.5," 1,819 "," 10,761,950,651 "," 11,982,465,401 "
+ALNS,Term Loan,RP_Loan and Deposit,MMLYA,,0,0," 1,666 "," 8,655,655,537 "," 10,025,732,371 "
+ALNS,Term Loan,RP_Loan and Deposit,607,Business Loans Var. Rate,0,0," 32,358 "," 4,657,221,251 "," 4,662,197,488 "
+ALNS,Term Loan,RP_Loan and Deposit,TLT,,0,0, 175 ," 7,211,973,755 "," 4,385,417,617 "
+ALNS,Term Loan,RP_Loan and Deposit,CRN,,0,0," 3,150 ","-673,951,284 "," 2,611,926,129 "
+ALNS,Term Loan,RP_Loan and Deposit,CDP,,0,0," 19,311 ","-6,632,576,858 "," 2,548,061,330 "
+ALNS,Term Loan,RP_Loan and Deposit,TRFIN,Trade Finance,0,0, 280 ," 2,403,023,084 "," 2,409,528,747 "
+ALNS,Term Loan,RP_Loan and Deposit,605,Commercial Mortgages,0,0," 6,890 "," 1,712,310,366 "," 1,680,645,217 "
+ALNS,Revolver,RP_Loan and Deposit,MMLYB,,0,0, 69 ," 969,652,360 "," 971,133,206 "
+ALNS,Term Loan,RP_Loan and Deposit,LOF,,0,0, 24 ," 932,776,758 "," 932,785,603 "
+ALNS,Revolver,RP_Loan and Deposit,MMLYA,,0,0, 48 ," 799,197,314 "," 645,990,105 "
+ALNS,Term Loan,RP_Loan and Deposit,604,Loans - Business,0,0," 3,418 "," 450,409,722 "," 441,965,256 "
+ALNS,Term Loan,RP_Loan and Deposit,MSS,,0,0," 5,576 ","-3,761,250,527 "," 438,602,231 "
+ALNS,Term Loan,RP_Loan and Deposit,LNCOR,Corporate Loans,0,0, 35 ," 403,009,683 "," 404,004,202 "
+ALNS,Term Loan,RP_Loan and Deposit,CIL,Import Loans - Clean Import Loans ( Floating Rate ),0,0," 8,672 "," 267,732,420 "," 266,721,243 "
+ALNS,Revolver,RP_Loan and Deposit,TRFIN,Trade Finance,0,0, 13 ," 232,801,490 "," 233,475,380 "
+ALNS,Term Loan,RP_Loan and Deposit,MMLYB,,0,0, 22 ," 212,251,013 "," 213,108,668 "
+ALNS,Term Loan,RP_Loan and Deposit,TRFIE,Trade Finance - ECGD Loans,0,0, 53 ," 194,091,123 "," 194,411,262 "
+ALNS,Term Loan,RP_Loan and Deposit,LNFNM,Loans,0,0, 21 ," 188,776,941 "," 188,779,236 "
+ALNS,Term Loan,RP_Loan and Deposit,XLN,,0,0, 12 ," 737,156,883 "," 165,637,482 "
+ALNS,Term Loan,RP_Loan and Deposit,701,Special Rate Lending Busi,0,0," 2,688 "," 165,017,516 "," 165,008,376 "
+ALNS,Revolver,RP_Loan and Deposit,607,Business Loans Var. Rate,0,0, 480 ," 141,898,243 "," 142,049,111 "
+ALNS,Term Loan,RP_Loan and Deposit,620,Commercial Invest Prop Mtg,0,0, 517 ," 136,517,024 "," 135,480,711 "
+ALNS,Term Loan,RP_Loan and Deposit,ETN,,0,0, 25 ," 68,887,555 "," 68,893,904 "
+ALNS,Term Loan,RP_Loan and Deposit,613,FSA Business Loans Var Rate,0,0, 596 ," 51,325,781 "," 48,591,758 "
+ALNS,Term Loan,RP_Loan and Deposit,LAI,Import Loans - Loans Against Imports,0,0," 2,065 "," 44,536,582 "," 44,334,854 "
+ALNS,Term Loan,RP_Loan and Deposit,CCD,,0,0, 63 ,"-10,888,016 "," 36,478,625 "
+ALNS,Term Loan,RP_Loan and Deposit,621,Resident Invest Prop Mtg,0,0, 271 ," 36,157,627 "," 34,926,822 "
+ALNS,Revolver,RP_Loan and Deposit,620,Commercial Invest Prop Mtg,0,0, 82 ," 26,623,022 "," 26,651,389 "
+ALNS,Term Loan,RP_Loan and Deposit,BALCL,Call Loans,0,0, 9 ," 24,316,133 "," 24,330,002 "
+ALNS,Term Loan,RP_Loan and Deposit,MCQ,,0,0, 418 ,"-14,716,568 "," 23,308,155 "
+ALNS,Revolver,RP_Loan and Deposit,605,Commercial Mortgages,0,0, 76 ," 22,305,971 "," 22,325,257 "
+ALNS,Term Loan,RP_Loan and Deposit,612,FSA Commercial Mortgages,0,0, 128 ," 20,153,092 "," 19,159,172 "
+ALNS,Term Loan,RP_Loan and Deposit,MLAIR,,0,0, 6 ," 12,146,960 "," 12,150,808 "
+ALNS,Term Loan,RP_Loan and Deposit,529,CCA Small Bus Loan,0,0," 2,414 "," 18,781,551 "," 10,106,620 "
+ALNS,Revolver,RP_Loan and Deposit,621,Resident Invest Prop Mtg,0,0, 60 ," 9,777,422 "," 9,786,474 "
+ALNS,Revolver,RP_Loan and Deposit,TRFIE,Trade Finance - ECGD Loans,0,0, 1 ," 9,663,752 "," 9,681,135 "
+ALNS,Term Loan,RP_Loan and Deposit,DCQ,,0,0, 32 ,"-18,391,971 "," 7,652,290 "
+ALNS,Revolver,RP_Loan and Deposit,604,Loans - Business,0,0, 34 ," 7,284,718 "," 7,307,792 "
+ALNS,Term Loan,RP_Loan and Deposit,618,CCA FLEXIBLE BUSINESS LOAN,0,0, 942 ," 8,359,231 "," 7,001,894 "
+ALNS,Term Loan,RP_Loan and Deposit,CPO,,0,0," 2,105 ","-607,259,103 "," 6,502,679 "
+ALNS,Term Loan,RP_Loan and Deposit,610,Managed Loans Business >25K,0,0, 539 ," 8,557,416 "," 6,009,626 "
+ALNS,Term Loan,RP_Loan and Deposit,319,CCA Small Business,0,0, 736 ," 6,082,186 "," 4,332,745 "
+ALNS,Term Loan,RP_Loan and Deposit,617,CCA Loans - Business,0,0, 437 ," 4,919,490 "," 2,900,699 "
+ALNS,Term Loan,RP_Loan and Deposit,603,Business Develop Loans,0,0, 39 ," 2,361,579 "," 2,337,728 "
+ALNS,Term Loan,RP_Loan and Deposit,105,CCA Small Bus Loan,0,0, 286 ," 2,738,641 "," 1,412,525 "
+ALNS,Term Loan,RP_Loan and Deposit,544,CCA Small Business Loan Deferred,0,0, 224 ," 1,857,582 "," 865,871 "
+ALNS,Term Loan,RP_Loan and Deposit,543,Ltd Co Small Business Loan Deferred,0,0, 217 ," 1,896,591 "," 858,147 "
+ALNS,Term Loan,RP_Loan and Deposit,PNP,Import Loans - Clean Import Loans ( Fixed Rate ),0,0, 112 ," 669,638 "," 727,227 "
+ALNS,Term Loan,RP_Loan and Deposit,322,CCA Small Bus Ln,0,0, 93 ," 910,071 "," 685,550 "
+ALNS,Term Loan,RP_Loan and Deposit,174,Personal Loan Jan Hol Staff,0,0, 97 ," 864,720 "," 602,698 "
+ALNS,Revolver,RP_Loan and Deposit,613,FSA Business Loans Var Rate,0,0, 4 ," 596,670 "," 597,582 "
+ALNS,Term Loan,RP_Loan and Deposit,218,Ltd Co SBL Def - PP,0,0, 61 ," 657,921 "," 542,909 "
+ALNS,Term Loan,RP_Loan and Deposit,507,Business Loans Fixed Rate,0,0, 12 ," 551,130 "," 489,462 "
+ALNS,Term Loan,RP_Loan and Deposit,601,Loans - Personal,0,0, 2 ," 233,729 "," 240,875 "
+ALNS,Term Loan,RP_Loan and Deposit,127,Ltd Co SBL Def Spec,0,0, 46 ," 442,370 "," 228,112 "
+ALNS,Term Loan,RP_Loan and Deposit,734,CCA Loans - Personal,0,0, 4 ," 179,600 "," 211,248 "
+ALNS,Term Loan,RP_Loan and Deposit,163,CCA SBL Deferred,0,0, 51 ," 483,489 "," 196,390 "
+ALNS,Term Loan,RP_Loan and Deposit,324,CCA Small Bus Ln,0,0, 31 ," 318,882 "," 193,024 "
+ALNS,Revolver,RP_Loan and Deposit,618,CCA FLEXIBLE BUSINESS LOAN,0,0, 12 ," 116,398 "," 116,522 "
+ALNS,Revolver,RP_Loan and Deposit,610,Managed Loans Business >25K,0,0, 1 ," 113,976 "," 113,976 "
+ALNS,Revolver,RP_Loan and Deposit,701,Special Rate Lending Busi,0,0, 2 ," 99,528 "," 99,528 "
+ALNS,Term Loan,RP_Loan and Deposit,209,Ltd Co SBL Def Spec,0,0, 16 ," 144,298 "," 85,287 "
+ALNS,Term Loan,RP_Loan and Deposit,622,FSA Res Invest Prop Mtg,0,0, 1 ," 70,959 "," 71,071 "
+ALNS,Term Loan,RP_Loan and Deposit,703,Special Rate Lending Pers,0,0, 1 ," 35,333 "," 35,157 "
+ALNS,Term Loan,RP_Loan and Deposit,546,CCA Small Business Loan Jan Hol,0,0, 6 ," 39,688 "," 25,704 "
+ALNS,Revolver,RP_Loan and Deposit,529,CCA Small Bus Loan,0,0, 1 ," 16,497 "," 16,555 "
+ALNS,Term Loan,RP_Loan and Deposit,321,CCA SBL Jan Hol - PP,0,0, 3 ," 20,052 "," 13,521 "
+ALNS,Revolver,RP_Loan and Deposit,319,CCA Small Business,0,0, 1 ," 6,342 "," 7,099 "
+ALNS,Term Loan,RP_Loan and Deposit,545,Ltd Co Small Business Loan Jan Hol,0,0, 2 ," 22,434 "," 3,273 "
+ALNS,Term Loan,RP_Loan and Deposit,CDF,,0,0, 139 ,"-355,856,064 ", 12 
+ALNS,Missing,,604,Loans - Business,0,0, 5 ," 1,205,932 ", -   
+ALNS,Missing,,605,Commercial Mortgages,0,0, 4 ," 682,977 ", -   
+ALNS,Missing,,607,Business Loans Var. Rate,0,0, 51 ," 7,166,840 ", -   
+ALNS,Missing,,613,FSA Business Loans Var Rate,0,0, 4 ," 821,999 ", -   
+ALNS,Missing,,618,CCA FLEXIBLE BUSINESS LOAN,0,0, 2 ," 167,812 ", -   
+ALNS,Missing,,620,Commercial Invest Prop Mtg,0,0, 10 ," 2,512,812 ", -   
+ALNS,Missing,,621,Resident Invest Prop Mtg,0,0, 10 ," 426,259 ", -   
+ALNS,Missing,,CDP,,0,0, 1 , -   , -   
+ALNS,Missing,,MMLYA,,0,0, 6 ," 12,201,371 ", -   
+ALNS,Revolver,,529,CCA Small Bus Loan,0,0, 1 , -   , -   
+ALNS,Revolver,,604,Loans - Business,0,0, 33 , -   , -   
+ALNS,Revolver,,605,Commercial Mortgages,0,0, 74 , -   , -   
+ALNS,Revolver,,607,Business Loans Var. Rate,0,0, 450 , -   , -   
+ALNS,Revolver,,613,FSA Business Loans Var Rate,0,0, 4 , -   , -   
+ALNS,Revolver,,618,CCA FLEXIBLE BUSINESS LOAN,0,0, 11 , -   , -   
+ALNS,Revolver,,620,Commercial Invest Prop Mtg,0,0, 82 , -   , -   
+ALNS,Revolver,,621,Resident Invest Prop Mtg,0,0, 60 , -   , -   
+ALNS,Revolver,,CDP,,0,0, 1 , -   , -   
+ALNS,Revolver,,MMLYA,,0,0, 42 , -   , -   
+ALNS,Revolver,RP_Loan and Deposit,CDP,,0,0, 1 ,"-1,720 ", -   
+ALNS,Term Loan,,BALCL,Call Loans,0,0, 2 ," 8,950,010,254 ", -   
+ALNS,Term Loan,,TLT,,0,0, 1 ," 130,112,870 ", -   
+ALNS,Term Loan,RP_Loan and Deposit,165,CCA Co SBL Jan Hol,0,0, 1 ," 7,949 ", -   
+ALNS,Term Loan,RP_Loan and Deposit,219,LTD CO SMALL BUS LN JAN HOL PP,0,0, 1 ," 9,964 ", -   
+ALNS,Term Loan,RP_Loan and Deposit,531,CCA Personal Loan,0,0, 1 , 413 , -   
+ALNS,Term Loan,RP_Loan and Deposit,LN,,0,0, 608 ,"-29,335,060 ", -   
+ALNS,Term Loan,RP_Loan and Deposit,LNSPD,Special Schemes Building Loan,0,0, 114 , 1 , -   
+ALNS,Term Loan,RP_Loan and Deposit,MLN,,0,0, 1 ," 1,365,828,672 ", -   
+MAAT,Letter of Credit,RP_TradeRel Contingency,DCS,Import DCs - Documentary Credits ( Standby ),1,1   34, 533 ," 2,345,448,059 "," 2,315,280,448 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,DPC,Import DCs - Documentary Credits ( Usance ),1,1   34," 3,939 "," 133,221,907 "," 315,237,265 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,DC,Import DCs - Import Sight Documentary Credit,1,1   34," 2,790 "," 139,822,022 "," 281,722,584 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,DPB,Import DC bills - Usance Bills drawn under DCs,1,1   34," 3,659 "," 151,165,807 "," 244,296,097 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,COC,Export DC Bills - All Bills drawn under Confirmed DCs,1,1   34, 555 ," 178,681,370 "," 178,681,370 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,ULCHQ,,1,1," 1,031 "," 66,308,309 "," 132,245,680 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,MEMON,Bill Lending HIE Memos,1,1, 701 ," 118,641,537 "," 118,641,829 "
+MAAT,Revolver,RP_TradeRel Contingency,DCS,Import DCs - Documentary Credits ( Standby ),1,1    34, 11 ," 90,944,866 "," 90,944,967 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,BR,Import Bill Receivable,1,1   34, 489 ," 22,236,239 "," 56,520,834 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,DO,Other - Delivery Order,1,1   34, 200 ," 1,703,148 "," 6,438,038 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,AVL,Import Non DC Bills - Avalised Non-DC Bill,1,1   34, 68 ," 3,162,479 "," 3,162,479 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,BDN,Export Non DC Bills - Financed Bills drawn under other banks co,1,1   34, 4 ," 1,853,119 "," 1,853,119 "
+MAAT,Letter of Credit,RP_TradeRel Contingency,ULHCW,Hold Covered telexes re 20% weighted documentary credits,1,1   22, 2 ," 19,468 "," 772,736 "
+MAAT,Missing,,ULCHQ,,0,0, 568 ," 1,231,033 ", -   
+MGAP,Letter of Credit,RP_Direct Credit Sub,SDC,Standby DC - financial guarantee,1,1      34, 408 ," 787,808,859 "," 968,731,942 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULFAG,FACILITY GUARANTEE,1,1      22, 312 ," 878,186,968 "," 961,226,662 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,FNG,All Others,1,1      22, 465 ," 483,346,997 "," 608,158,701 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULVAT,CUSTOMS & EXCISE DEFERRED DUTY/VAT BOND,1,1      22," 2,135 "," 384,775,878 "," 482,055,786 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULFIG,FINANCIAL INSTRUMENTS GUARANTEE,1,1      22, 186 ," 90,613,184 "," 133,100,042 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULAPG,ADVANCE PAYT GUARANTEE,1,0.5    22, 265 ," 227,543,275 "," 112,615,113 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULRTG,RENT GUARANTEE,1,1      22, 173 ," 49,145,957 "," 77,549,806 "
+MGAP,Revolver,RP_Direct Credit Sub,FNG,All Others,1,1, 13 ," 50,719,480 "," 50,719,623 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,APG,Advance Payment Guarantee,1,0.5    22, 169 ," 74,161,664 "," 48,760,075 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULHCT,HOLD COVERED TELEX RE ADVANCES,1,1      22, 32 ," 56,126,450 "," 40,220,896 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,GTE,"Bail Bond, Salvage Bond and Deferred Duty Bond",1,1      22, 63 ," 17,255,098 "," 26,285,938 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULLOD,LOST INSTRUMENTS INDEMNITIES,1,1      22, 77 ," 4,153,536 "," 25,345,384 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,SDP,Import DCs - Standby Credit Bought,1,1      34, 1 ," 760,241 "," 16,342,640 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,SBF,Export DCs - Export Stand-By DC,1,1      34, 18 ," 14,937,968 "," 14,937,968 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULLAG,LLOYDS GUARANTEE,1,1      22, 23 ," 10,740,331 "," 11,354,866 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULATO,AIR TRAVEL ORG LICENCE BOND,1,1      22, 67 ," 12,080,748 "," 9,829,591 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULABT,ASSN OF BRITISH TRAVEL AGENTS BOND,1,1      22, 69 ," 6,286,701 "," 8,221,469 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULPPG,CROWN AGENTS GTEES RE PENSION,1,1      22, 5 ," 429,000 "," 3,265,726 "
+MGAP,Revolver,RP_Direct Credit Sub,SDC,Standby DC - financial guarantee,1,1, 2 ," 2,300,000 "," 2,300,000 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULSMG,SECURITIES MARKET GUARANTEE,1,1      22, 1 ," 151,455 "," 2,037,590 "
+MGAP,Revolver,RP_Direct Credit Sub,ULFAG,FACILITY GUARANTEE,1,1, 2 ," 157,892 "," 348,214 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULDEL,,1,1, 8 ," 217,597 "," 236,653 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULFPG,FRESH PRODUCE GUARANTEE,1,1      22, 11 ," 97,000 "," 101,700 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULMOP,MAIL ORDER PROTECTION SCHEME GUARANTEE,1,1      22, 3 ," 55,000 "," 74,125 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULAVL,,1,1, 1 ," 8,785 "," 8,786 "
+MGAP,Letter of Credit,RP_Direct Credit Sub,ULMBC,,1,1, 1 , 360 , 360 
+MGAP,Letter of Credit,RP_Direct Credit Sub,IDW,Import DCs - Documentary Credits ( Sight & Usance ) ( Cash Cove,1,1      34, 268 ," 335,727,309 ", -   
+MGAP,Missing,,ULABT,ASSN OF BRITISH TRAVEL AGENTS BOND,0,1      22, 5 ,"-5,000 ", -   
+MGAP,Missing,,ULAPG,ADVANCE PAYT GUARANTEE,0,0.5    22, 45 ," 3,564,531 ", -   
+MGAP,Missing,,ULATO,AIR TRAVEL ORG LICENCE BOND,0,0, 20 ," 5,000 ", -   
+MGAP,Missing,,ULAVL,,0,0, 1 , -   , -   
+MGAP,Missing,,ULDEL,,0,0, 3 ," 7,683 ", -   
+MGAP,Missing,,ULFAG,FACILITY GUARANTEE,0,0, 47 ," 1,056,914 ", -   
+MGAP,Missing,,ULFIG,FINANCIAL INSTRUMENTS GUARANTEE,0,0, 87 ," 12,008,756 ", -   
+MGAP,Missing,,ULFPG,FRESH PRODUCE GUARANTEE,0,0, 11 ," 49,750 ", -   
+MGAP,Missing,,ULHCT,HOLD COVERED TELEX RE ADVANCES,0,0, 6 , -   , -   
+MGAP,Missing,,ULLAG,LLOYDS GUARANTEE,0,0, 6 ," 150,000 ", -   
+MGAP,Missing,,ULLOD,LOST INSTRUMENTS INDEMNITIES,0,0, 12 ," 297,017 ", -   
+MGAP,Missing,,ULMOP,MAIL ORDER PROTECTION SCHEME GUARANTEE,0,0, 4 ," 10,000 ", -   
+MGAP,Missing,,ULPPG,CROWN AGENTS GTEES RE PENSION,0,0, 1 , -   , -   
+MGAP,Missing,,ULRTG,RENT GUARANTEE,0,0, 19 ," 255,631 ", -   
+MGAP,Missing,,ULVAT,CUSTOMS & EXCISE DEFERRED DUTY/VAT BOND,0,0, 123 ," 3,517,400 ", -   
+MGAP,Revolver,,ULFAG,FACILITY GUARANTEE,1,1, 2 , -   , -   
+,,,,,.,., 75 ,"-8,047,011,882 "," 31,396,427,612 "
+ULNS,Letter of Credit,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.5, 710 , -   ," 8,081,508,866 "
+ADES,Fixed Amortizing Bon,RP_Loan and Deposit,BDONG,Other Bonds,0,0, 718 ," 14,332,894 "," 3,100,737,689 "
+ADES,Fixed Amortizing Bon,RP_Loan and Deposit,BDOGO,Government Bonds,0,0, 42 ," 495,742 "," 1,843,008,565 "
+ADES,Fixed Amortizing Bon,RP_Loan and Deposit,CDPSM,CD Purchases/Sales,0,0, 14 , -   ," 864,921,108 "
+ATRB,Fixed Amortizing Bon,RP_Loan and Deposit,BILTR,Treasury Bills,0,0, 17 ,"-5,997,792 "," 547,480,862 "
+UCTA,Letter of Credit,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 88 , -   ," 453,424,318 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,0.5    22," 1,521 "," 871,667,647 "," 453,189,095 "
+UGTE,Letter of Credit,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.57, 678 , -   ," 337,305,840 "
+ABCB,Term Loan,RP_Commitment not LOC,NOSTR,Nostros,0.57,0.57, 173 ," 125,373,250 "," 145,700,084 "
+UPSL,Letter of Credit,RP_Undrawn Commitments,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57," 1,011 ", -   ," 139,593,235 "
+MDCS,Letter of Credit,RP_Standby Letter of Credit,DCC,Export DCs - Documentary Credits ( Confirmed ),1,1    34, 491 ," 124,256,252 "," 124,256,252 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULCAR,CARNETS & CUSTOMS GUARANTEES,1,0.5    22, 294 ," 57,933,759 "," 81,726,191 "
+UO/D,Letter of Credit,RP_Undrawn Commitments,UO/D,Undrawn - Overdraft,0.57,0.57, 89 , -   ," 79,101,920 "
+MGAT,Letter of Credit,RP_TransRel Contingency,PEB,Performance Bond,1,0.5    22, 668 ," 114,077,980 "," 72,432,865 "
+MGAT,Letter of Credit,RP_TransRel Contingency,SGT,Other - Shipping Guarantees,1,1    34, 45 ," 2,268,225 "," 71,973,105 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULTAB,TENDER BOND,1,0.5    22, 223 ," 38,089,715 "," 63,831,877 "
+UCCD,Letter of Credit,RP_Undrawn Commitments,UCCD,Undrawn - Credit Card Limit,0.57,0.57," 1,920 ", -   ," 60,865,186 "
+UTSL,Letter of Credit,RP_Undrawn Commitments,UTSL,Undrawn - Treasury Settlement,0.57,0.57, 147 , -   ," 55,814,627 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULRMG,RETENTION MONEYS GUARANTEE,1,0.5    22, 60 ," 31,394,313 "," 49,336,264 "
+UB/P,Letter of Credit,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.57, 672 , -   ," 29,703,757 "
+ULSG,Letter of Credit,RP_Undrawn Commitments,ULSG,Undrawn - Leasing,0.57,0.57, 14 , -   ," 29,101,168 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULPYG,PAYMENT GUARANTEE OR BOND,1,0.5    22, 64 ," 21,443,019 "," 28,858,892 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULTDB,TRADE DEBT BOND,1,0.5    22, 213 ," 29,729,564 "," 27,354,169 "
+LSDA,Revolver,RP_Commitment not LOC,BALND,Notice Deposits,0.57,0.57," 8,439 ","-1,082,407,518 "," 22,591,315 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,1,0.5    22, 46 ," 34,398,709 "," 20,990,765 "
+ULNS,Revolver,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.57, 72 , -   ," 19,160,349 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,0.5    22, 64 ," 8,683,851 "," 7,057,500 "
+UIMP,Letter of Credit,RP_Undrawn TradeRel Conting,UIMP,Undrawn - Import Line,0.34,0.57, 5 , -   ," 6,214,710 "
+UFEX,Letter of Credit,RP_Undrawn Commitments,UFEX,Undrawn - Foreign Exchange,0.57,0.57, 61 , -   ," 5,063,116 "
+LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0.57, 713 ," 3,764,109 "," 4,921,037 "
+UCTA,Revolver,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 4 , -   ," 3,828,120 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULCOG,COURT GUARANTEE,1,0.5    22, 13 ," 3,961,022 "," 3,699,105 "
+USWP,Letter of Credit,RP_Undrawn Commitments,USWP,Undrawn - Swap Facilities,0.57,0.57, 2 , -   ," 3,405,863 "
+AOTH,Revolver,RP_Commitment not LOC,SUSP,Suspense - Sundry Debitors / Creditors,0.57,0.57, 12 ," 2,606,129 "," 2,606,129 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULTAT,TRUST AGREEMENT RE THOS COOK TC'S,1,0.5    22, 4 ," 51,000 "," 1,444,493 "
+MGAT,Revolver,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,1, 29 ," 827,375 "," 934,797 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULBOB,BAIL BOND,1,0.5    22, 3 ," 1,702,066 "," 932,435 "
+MGAT,Letter of Credit,RP_TransRel Contingency,TEB,Tender Bond,1,0.5    22, 27 ," 1,512,666 "," 783,190 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULMBG,MEMBERSHIP GUARANTEE,1,1    22, 9 ," 628,000 "," 623,050 "
+UGTE,Revolver,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.22, 22 , -   ," 550,079 "
+LSDA,Revolver,RP_Commitment not LOC,75,351N Sara,0.57,0.57, 11 ," 451,550 "," 493,625 "
+UO/D,Revolver,RP_Undrawn Commitments,UO/D,Undrawn - Overdraft,0.57,0.57, 4 , -   ," 470,307 "
+MDCS,Letter of Credit,RP_Standby Letter of Credit,RIC,Export DCs - Confirmed Reimbursement,1,1    34, 7 ," 248,219 "," 248,219 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULFRG,FREIGHT GUARANTEE,1,0.5    22, 1 ," 2,000 "," 195,864 "
+MGAT,Revolver,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,1, 1 ," 95,000 "," 115,000 "
+AOTH,Revolver,RP_Commitment not LOC,94,Security Realised,0.57,0.57, 1 ," 44,421 "," 44,421 "
+LSDA,Revolver,RP_Commitment not LOC,240,CPDA,0.57,0.57, 459 ," 11,038 "," 36,838 "
+AHML,Revolver,RP_Loan and Deposit,284,Interest Only Mortgages,0,0, 1 ," 29,981 "," 30,651 "
+LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0, 14 ," 39,619 "," 30,378 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULSAG,SALVAGE GUARANTEE,1,0.5    22, 2 ," 55,000 "," 25,750 "
+UMMK,Letter of Credit,RP_Undrawn Commitments,UMMK,Undrawn - Money Market Placing,0.57,0.57, 1 , -   ," 22,800 "
+UB/P,Revolver,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.75, 1 , -   ," 18,750 "
+MGAT,Letter of Credit,RP_TransRel Contingency,ULPCC,PAYT OF CUST CHQ TO CUSTOMS & EX,1,1    22, 1 ," 1,000 "," 12,500 "
+AOTH,Revolver,RP_Commitment not LOC,154,Invoice Finance Trust,0.57,0.57, 41 , 1 ," 5,952 "
+AHML,Revolver,RP_Loan and Deposit,232,OLCS - Mtge Repaym Var,0,0, 2 ," 107,173 "," 4,448 "
+LCUN,Term Loan,RP_Loan and Deposit,13,FSA Start Up Reg NIBCA,0,0, 2 ," 1,950 "," 1,977 "
+LSDA,Revolver,RP_Commitment not LOC,335,Premium Business Account,0.57,0.57, 17 , 35 , 38 
+LSDA,Revolver,RP_Commitment not LOC,78,Stockbroker Client D/A,0.57,0.57, 1 , -   , 29 
+ABCB,Term Loan,,NOSTR,Nostros,0.57,0.57, 1 ," 1,441,964,545 ", -   
+ACCA,Revolver,RP_Revolving Purchased Faci,MAVCD,Mastercard And VISA Cards,0.57,0.57, 5 ," 14,485 ", -   
+ADES,Fixed Amortizing Bon,,BDGLT,Uk Gilts,0,0, 17 , -   , -   
+ADES,Fixed Amortizing Bon,,BDGLX,Gilts,0,0, 2 , -   , -   
+ADES,Fixed Amortizing Bon,,BDONG,Other Bonds,0,0, 18 , -   , -   
+AOTH,Revolver,RP_Commitment not LOC,BDFRI,Frns Issued,0.57,0.57, 2 , -   , -   
+AOTH,Revolver,RP_Commitment not LOC,FISDF,Fiscal Default,0.57,0.57, 37 , -   , -   
+AOTH,Revolver,RP_Commitment not LOC,PROVN,Provisions,0.57,0.57, 2 , -   , -   
+ATRB,Fixed Amortizing Bon,,BILTR,Treasury Bills,0,0, 1 , -   , -   
+LSDA,Revolver,RP_Commitment not LOC,SUBPT,Deposits,0.57,0.57, 13 ,"-36,903,625 ", -   
+MGAT,Missing,,ULBOB,BAIL BOND,0,0, 1 , -   , -   
+MGAT,Missing,,ULCAR,CARNETS & CUSTOMS GUARANTEES,0,0, 48 ," 375,045 ", -   
+MGAT,Missing,,ULCOG,COURT GUARANTEE,0,0, 2 ," 35,000 ", -   
+MGAT,Missing,,ULFRG,FREIGHT GUARANTEE,0,0, 1 ," 2,000 ", -   
+MGAT,Missing,,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,0,0, 5 , -   , -   
+MGAT,Missing,,ULMBG,MEMBERSHIP GUARANTEE,0,0, 1 , -   , -   
+MGAT,Missing,,ULMQG,,0,0, 1 , -   , -   
+MGAT,Missing,,ULPAB,PERFORMANCE BOND,0,0, 238 ," 16,912,834 ", -   
+MGAT,Missing,,ULPYG,PAYMENT GUARANTEE OR BOND,0,0, 9 ," 25,521 ", -   
+MGAT,Missing,,ULRMG,RETENTION MONEYS GUARANTEE,0,0, 8 ," 210,959 ", -   
+MGAT,Missing,,ULTAB,TENDER BOND,0,0, 26 ," 805,545 ", -   
+MGAT,Missing,,ULTDB,TRADE DEBT BOND,0,0, 26 ," 203,297 ", -   
+MGAT,Missing,,ULTSG,TRUST AGREEMENT RE TICKET SALES,0,0, 5 ," 8,000 ", -   
+MGAT,Revolver,,ULPAB,PERFORMANCE BOND,1,1, 26 , -   , -   
+MGAT,Revolver,,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,1, 1 , -   , -   
+UB/P,Letter of Credit,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.75, 1 , -   , -   
+UB/P,Revolver,,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.75, 1 , -   , -   
+UCCD,Revolver,,UCCD,Undrawn - Credit Card Limit,0.57,0.57, 70 , -   , -   
+UCCD,Revolver,RP_Undrawn Commitments,UCCD,Undrawn - Credit Card Limit,0.57,0.57, 70 , -   , -   
+UCTA,Revolver,,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 3 , -   , -   
+UGTE,Revolver,,UGTE,Undrawn - Guarantees Issued,0.22,0.22, 21 , -   , -   
+ULNS,Letter of Credit,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.57, 13 , -   , -   
+ULNS,Revolver,,ULNS,Undrawn - Loans,0.57,0.57, 55 , -   , -   
+UNIH,Letter of Credit,RP_Undrawn Commitments,UNIH,Undrawn - Negotiable Instrument - Trading,0.57,0.57, 2 , -   , -   
+UO/D,Revolver,,UO/D,Undrawn - Overdraft,0.57,0.57, 3 , -   , -   
+UPSL,Revolver,,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57, 14 , -   , -   
+UPSL,Revolver,RP_Undrawn Commitments,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57, 16 , -   , -   
+USWP,Revolver,,USWP,Undrawn - Swap Facilities,0.57,0.57, 1 , -   , -   
+USWP,Revolver,RP_Undrawn Commitments,USWP,Undrawn - Swap Facilities,0.57,0.57, 2 , -   , -   
+,,,,,,,,,
