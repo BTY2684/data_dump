@@ -207,81 +207,12 @@ MGAP,Revolver,,ULFAG,FACILITY GUARANTEE,1,1, 2 , -   , -
 ULNS,Letter of Credit,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.5, 710 , -   ," 8,081,508,866 "
 ADES,Fixed Amortizing Bon,RP_Loan and Deposit,BDONG,Other Bonds,0,0, 718 ," 14,332,894 "," 3,100,737,689 "
 ADES,Fixed Amortizing Bon,RP_Loan and Deposit,BDOGO,Government Bonds,0,0, 42 ," 495,742 "," 1,843,008,565 "
-ADES,Fixed Amortizing Bon,RP_Loan and Deposit,CDPSM,CD Purchases/Sales,0,0, 14 , -   ," 864,921,108 "
-ATRB,Fixed Amortizing Bon,RP_Loan and Deposit,BILTR,Treasury Bills,0,0, 17 ,"-5,997,792 "," 547,480,862 "
-UCTA,Letter of Credit,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 88 , -   ," 453,424,318 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,0.5    22," 1,521 "," 871,667,647 "," 453,189,095 "
-UGTE,Letter of Credit,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.57, 678 , -   ," 337,305,840 "
-ABCB,Term Loan,RP_Commitment not LOC,NOSTR,Nostros,0.57,0.57, 173 ," 125,373,250 "," 145,700,084 "
-UPSL,Letter of Credit,RP_Undrawn Commitments,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57," 1,011 ", -   ," 139,593,235 "
-MDCS,Letter of Credit,RP_Standby Letter of Credit,DCC,Export DCs - Documentary Credits ( Confirmed ),1,1    34, 491 ," 124,256,252 "," 124,256,252 "
+ADES,Fixed Amortizing Bon,RP_Loan and Deposit,CDPSM,CD Purchases/Sales,0,0, 14 , -   ," 864,921,108 " ATRB,Fixed Amortizing Bon,RP_Loan and Deposit,BILTR,Treasury Bills,0,0, 17 ,"-5,997,792 "," 547,480,862 " UCTA,Letter of Credit,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 88 , -   ," 453,424,318 " MGAT,Letter of Credit,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,0.5    22," 1,521 "," 871,667,647 "," 453,189,095 " UGTE,Letter of Credit,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.57, 678 , -   ," 337,305,840 " ABCB,Term Loan,RP_Commitment not LOC,NOSTR,Nostros,0.57,0.57, 173 ," 125,373,250 "," 145,700,084 " UPSL,Letter of Credit,RP_Undrawn Commitments,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57," 1,011 ", -   ," 139,593,235 " MDCS,Letter of Credit,RP_Standby Letter of Credit,DCC,Export DCs - Documentary Credits ( Confirmed ),1,1    34, 491 ," 124,256,252 "," 124,256,252 "
 MGAT,Letter of Credit,RP_TransRel Contingency,ULCAR,CARNETS & CUSTOMS GUARANTEES,1,0.5    22, 294 ," 57,933,759 "," 81,726,191 "
 UO/D,Letter of Credit,RP_Undrawn Commitments,UO/D,Undrawn - Overdraft,0.57,0.57, 89 , -   ," 79,101,920 "
 MGAT,Letter of Credit,RP_TransRel Contingency,PEB,Performance Bond,1,0.5    22, 668 ," 114,077,980 "," 72,432,865 "
 MGAT,Letter of Credit,RP_TransRel Contingency,SGT,Other - Shipping Guarantees,1,1    34, 45 ," 2,268,225 "," 71,973,105 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULTAB,TENDER BOND,1,0.5    22, 223 ," 38,089,715 "," 63,831,877 "
-UCCD,Letter of Credit,RP_Undrawn Commitments,UCCD,Undrawn - Credit Card Limit,0.57,0.57," 1,920 ", -   ," 60,865,186 "
-UTSL,Letter of Credit,RP_Undrawn Commitments,UTSL,Undrawn - Treasury Settlement,0.57,0.57, 147 , -   ," 55,814,627 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULRMG,RETENTION MONEYS GUARANTEE,1,0.5    22, 60 ," 31,394,313 "," 49,336,264 "
-UB/P,Letter of Credit,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.57, 672 , -   ," 29,703,757 "
-ULSG,Letter of Credit,RP_Undrawn Commitments,ULSG,Undrawn - Leasing,0.57,0.57, 14 , -   ," 29,101,168 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULPYG,PAYMENT GUARANTEE OR BOND,1,0.5    22, 64 ," 21,443,019 "," 28,858,892 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULTDB,TRADE DEBT BOND,1,0.5    22, 213 ," 29,729,564 "," 27,354,169 "
-LSDA,Revolver,RP_Commitment not LOC,BALND,Notice Deposits,0.57,0.57," 8,439 ","-1,082,407,518 "," 22,591,315 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,1,0.5    22, 46 ," 34,398,709 "," 20,990,765 "
-ULNS,Revolver,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.57, 72 , -   ," 19,160,349 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,0.5    22, 64 ," 8,683,851 "," 7,057,500 "
-UIMP,Letter of Credit,RP_Undrawn TradeRel Conting,UIMP,Undrawn - Import Line,0.34,0.57, 5 , -   ," 6,214,710 "
-UFEX,Letter of Credit,RP_Undrawn Commitments,UFEX,Undrawn - Foreign Exchange,0.57,0.57, 61 , -   ," 5,063,116 "
-LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0.57, 713 ," 3,764,109 "," 4,921,037 "
-UCTA,Revolver,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 4 , -   ," 3,828,120 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULCOG,COURT GUARANTEE,1,0.5    22, 13 ," 3,961,022 "," 3,699,105 "
-USWP,Letter of Credit,RP_Undrawn Commitments,USWP,Undrawn - Swap Facilities,0.57,0.57, 2 , -   ," 3,405,863 "
-AOTH,Revolver,RP_Commitment not LOC,SUSP,Suspense - Sundry Debitors / Creditors,0.57,0.57, 12 ," 2,606,129 "," 2,606,129 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULTAT,TRUST AGREEMENT RE THOS COOK TC'S,1,0.5    22, 4 ," 51,000 "," 1,444,493 "
-MGAT,Revolver,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,1, 29 ," 827,375 "," 934,797 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULBOB,BAIL BOND,1,0.5    22, 3 ," 1,702,066 "," 932,435 "
-MGAT,Letter of Credit,RP_TransRel Contingency,TEB,Tender Bond,1,0.5    22, 27 ," 1,512,666 "," 783,190 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULMBG,MEMBERSHIP GUARANTEE,1,1    22, 9 ," 628,000 "," 623,050 "
-UGTE,Revolver,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.22, 22 , -   ," 550,079 "
-LSDA,Revolver,RP_Commitment not LOC,75,351N Sara,0.57,0.57, 11 ," 451,550 "," 493,625 "
-UO/D,Revolver,RP_Undrawn Commitments,UO/D,Undrawn - Overdraft,0.57,0.57, 4 , -   ," 470,307 "
-MDCS,Letter of Credit,RP_Standby Letter of Credit,RIC,Export DCs - Confirmed Reimbursement,1,1    34, 7 ," 248,219 "," 248,219 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULFRG,FREIGHT GUARANTEE,1,0.5    22, 1 ," 2,000 "," 195,864 "
-MGAT,Revolver,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,1, 1 ," 95,000 "," 115,000 "
-AOTH,Revolver,RP_Commitment not LOC,94,Security Realised,0.57,0.57, 1 ," 44,421 "," 44,421 "
-LSDA,Revolver,RP_Commitment not LOC,240,CPDA,0.57,0.57, 459 ," 11,038 "," 36,838 "
-AHML,Revolver,RP_Loan and Deposit,284,Interest Only Mortgages,0,0, 1 ," 29,981 "," 30,651 "
-LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0, 14 ," 39,619 "," 30,378 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULSAG,SALVAGE GUARANTEE,1,0.5    22, 2 ," 55,000 "," 25,750 "
-UMMK,Letter of Credit,RP_Undrawn Commitments,UMMK,Undrawn - Money Market Placing,0.57,0.57, 1 , -   ," 22,800 "
-UB/P,Revolver,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.75, 1 , -   ," 18,750 "
-MGAT,Letter of Credit,RP_TransRel Contingency,ULPCC,PAYT OF CUST CHQ TO CUSTOMS & EX,1,1    22, 1 ," 1,000 "," 12,500 "
-AOTH,Revolver,RP_Commitment not LOC,154,Invoice Finance Trust,0.57,0.57, 41 , 1 ," 5,952 "
-AHML,Revolver,RP_Loan and Deposit,232,OLCS - Mtge Repaym Var,0,0, 2 ," 107,173 "," 4,448 "
-LCUN,Term Loan,RP_Loan and Deposit,13,FSA Start Up Reg NIBCA,0,0, 2 ," 1,950 "," 1,977 "
-LSDA,Revolver,RP_Commitment not LOC,335,Premium Business Account,0.57,0.57, 17 , 35 , 38 
-LSDA,Revolver,RP_Commitment not LOC,78,Stockbroker Client D/A,0.57,0.57, 1 , -   , 29 
-ABCB,Term Loan,,NOSTR,Nostros,0.57,0.57, 1 ," 1,441,964,545 ", -   
-ACCA,Revolver,RP_Revolving Purchased Faci,MAVCD,Mastercard And VISA Cards,0.57,0.57, 5 ," 14,485 ", -   
-ADES,Fixed Amortizing Bon,,BDGLT,Uk Gilts,0,0, 17 , -   , -   
-ADES,Fixed Amortizing Bon,,BDGLX,Gilts,0,0, 2 , -   , -   
-ADES,Fixed Amortizing Bon,,BDONG,Other Bonds,0,0, 18 , -   , -   
-AOTH,Revolver,RP_Commitment not LOC,BDFRI,Frns Issued,0.57,0.57, 2 , -   , -   
-AOTH,Revolver,RP_Commitment not LOC,FISDF,Fiscal Default,0.57,0.57, 37 , -   , -   
-AOTH,Revolver,RP_Commitment not LOC,PROVN,Provisions,0.57,0.57, 2 , -   , -   
-ATRB,Fixed Amortizing Bon,,BILTR,Treasury Bills,0,0, 1 , -   , -   
-LSDA,Revolver,RP_Commitment not LOC,SUBPT,Deposits,0.57,0.57, 13 ,"-36,903,625 ", -   
-MGAT,Missing,,ULBOB,BAIL BOND,0,0, 1 , -   , -   
-MGAT,Missing,,ULCAR,CARNETS & CUSTOMS GUARANTEES,0,0, 48 ," 375,045 ", -   
-MGAT,Missing,,ULCOG,COURT GUARANTEE,0,0, 2 ," 35,000 ", -   
-MGAT,Missing,,ULFRG,FREIGHT GUARANTEE,0,0, 1 ," 2,000 ", -   
-MGAT,Missing,,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,0,0, 5 , -   , -   
-MGAT,Missing,,ULMBG,MEMBERSHIP GUARANTEE,0,0, 1 , -   , -   
-MGAT,Missing,,ULMQG,,0,0, 1 , -   , -   
-MGAT,Missing,,ULPAB,PERFORMANCE BOND,0,0, 238 ," 16,912,834 ", -   
-MGAT,Missing,,ULPYG,PAYMENT GUARANTEE OR BOND,0,0, 9 ," 25,521 ", -   
-MGAT,Missing,,ULRMG,RETENTION MONEYS GUARANTEE,0,0, 8 ," 210,959 ", -   
+MGAT,Letter of Credit,RP_TransRel Contingency,ULTAB,TENDER BOND,1,0.5    22, 223 ," 38,089,715 "," 63,831,877 " UCCD,Letter of Credit,RP_Undrawn Commitments,UCCD,Undrawn - Credit Card Limit,0.57,0.57," 1,920 ", -   ," 60,865,186 " UTSL,Letter of Credit,RP_Undrawn Commitments,UTSL,Undrawn - Treasury Settlement,0.57,0.57, 147 , -   ," 55,814,627 " MGAT,Letter of Credit,RP_TransRel Contingency,ULRMG,RETENTION MONEYS GUARANTEE,1,0.5    22, 60 ," 31,394,313 "," 49,336,264 " UB/P,Letter of Credit,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.57, 672 , -   ," 29,703,757 " ULSG,Letter of Credit,RP_Undrawn Commitments,ULSG,Undrawn - Leasing,0.57,0.57, 14 , -   ," 29,101,168 " MGAT,Letter of Credit,RP_TransRel Contingency,ULPYG,PAYMENT GUARANTEE OR BOND,1,0.5    22, 64 ," 21,443,019 "," 28,858,892 " MGAT,Letter of Credit,RP_TransRel Contingency,ULTDB,TRADE DEBT BOND,1,0.5    22, 213 ," 29,729,564 "," 27,354,169 " LSDA,Revolver,RP_Commitment not LOC,BALND,Notice Deposits,0.57,0.57," 8,439 ","-1,082,407,518 "," 22,591,315 " MGAT,Letter of Credit,RP_TransRel Contingency,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,1,0.5    22, 46 ," 34,398,709 "," 20,990,765 " ULNS,Revolver,RP_Undrawn Commitments,ULNS,Undrawn - Loans,0.57,0.57, 72 , -   ," 19,160,349 " MGAT,Letter of Credit,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,0.5    22, 64 ," 8,683,851 "," 7,057,500 " UIMP,Letter of Credit,RP_Undrawn TradeRel Conting,UIMP,Undrawn - Import Line,0.34,0.57, 5 , -   ," 6,214,710 " UFEX,Letter of Credit,RP_Undrawn Commitments,UFEX,Undrawn - Foreign Exchange,0.57,0.57, 61 , -   ," 5,063,116 " LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0.57, 713 ," 3,764,109 "," 4,921,037 " UCTA,Revolver,RP_Undrawn Commitments,UCTA,Undrawn - Composite Limit - On Balance Sheet,0.57,0.57, 4 , -   ," 3,828,120 " MGAT,Letter of Credit,RP_TransRel Contingency,ULCOG,COURT GUARANTEE,1,0.5    22, 13 ," 3,961,022 "," 3,699,105 " USWP,Letter of Credit,RP_Undrawn Commitments,USWP,Undrawn - Swap Facilities,0.57,0.57, 2 , -   ," 3,405,863 " AOTH,Revolver,RP_Commitment not LOC,SUSP,Suspense - Sundry Debitors / Creditors,0.57,0.57, 12 ," 2,606,129 "," 2,606,129 " MGAT,Letter of Credit,RP_TransRel Contingency,ULTAT,TRUST AGREEMENT RE THOS COOK TC'S,1,0.5    22, 4 ," 51,000 "," 1,444,493 " MGAT,Revolver,RP_TransRel Contingency,ULPAB,PERFORMANCE BOND,1,1, 29 ," 827,375 "," 934,797 " MGAT,Letter of Credit,RP_TransRel Contingency,ULBOB,BAIL BOND,1,0.5    22, 3 ," 1,702,066 "," 932,435 " MGAT,Letter of Credit,RP_TransRel Contingency,TEB,Tender Bond,1,0.5    22, 27 ," 1,512,666 "," 783,190 " MGAT,Letter of Credit,RP_TransRel Contingency,ULMBG,MEMBERSHIP GUARANTEE,1,1    22, 9 ," 628,000 "," 623,050 " UGTE,Revolver,RP_Undrawn Direct Credit Su,UGTE,Undrawn - Guarantees Issued,0.22,0.22, 22 , -   ," 550,079 " LSDA,Revolver,RP_Commitment not LOC,75,351N Sara,0.57,0.57, 11 ," 451,550 "," 493,625 " UO/D,Revolver,RP_Undrawn Commitments,UO/D,Undrawn - Overdraft,0.57,0.57, 4 , -   ," 470,307 " MDCS,Letter of Credit,RP_Standby Letter of Credit,RIC,Export DCs - Confirmed Reimbursement,1,1    34, 7 ," 248,219 "," 248,219 " MGAT,Letter of Credit,RP_TransRel Contingency,ULFRG,FREIGHT GUARANTEE,1,0.5    22, 1 ," 2,000 "," 195,864 " MGAT,Revolver,RP_TransRel Contingency,ULTSG,TRUST AGREEMENT RE TICKET SALES,1,1, 1 ," 95,000 "," 115,000 " AOTH,Revolver,RP_Commitment not LOC,94,Security Realised,0.57,0.57, 1 ," 44,421 "," 44,421 " LSDA,Revolver,RP_Commitment not LOC,240,CPDA,0.57,0.57, 459 ," 11,038 "," 36,838 " AHML,Revolver,RP_Loan and Deposit,284,Interest Only Mortgages,0,0, 1 ," 29,981 "," 30,651 " LCUN,Term Loan,RP_Loan and Deposit,14,Start Up Teg NIBCA,0,0, 14 ," 39,619 "," 30,378 " MGAT,Letter of Credit,RP_TransRel Contingency,ULSAG,SALVAGE GUARANTEE,1,0.5    22, 2 ," 55,000 "," 25,750 " UMMK,Letter of Credit,RP_Undrawn Commitments,UMMK,Undrawn - Money Market Placing,0.57,0.57, 1 , -   ," 22,800 " UB/P,Revolver,RP_Undrawn Note Issuance Fa,UB/P,Undrawn - Bills Purchased By The HSBC Group,0.75,0.75, 1 , -   ," 18,750 " MGAT,Letter of Credit,RP_TransRel Contingency,ULPCC,PAYT OF CUST CHQ TO CUSTOMS & EX,1,1    22, 1 ," 1,000 "," 12,500 " AOTH,Revolver,RP_Commitment not LOC,154,Invoice Finance Trust,0.57,0.57, 41 , 1 ," 5,952 " AHML,Revolver,RP_Loan and Deposit,232,OLCS - Mtge Repaym Var,0,0, 2 ," 107,173 "," 4,448 " LCUN,Term Loan,RP_Loan and Deposit,13,FSA Start Up Reg NIBCA,0,0, 2 ," 1,950 "," 1,977 " LSDA,Revolver,RP_Commitment not LOC,335,Premium Business Account,0.57,0.57, 17 , 35 , 38 LSDA,Revolver,RP_Commitment not LOC,78,Stockbroker Client D/A,0.57,0.57, 1 , -   , 29 ABCB,Term Loan,,NOSTR,Nostros,0.57,0.57, 1 ," 1,441,964,545 ", -   ACCA,Revolver,RP_Revolving Purchased Faci,MAVCD,Mastercard And VISA Cards,0.57,0.57, 5 ," 14,485 ", -   ADES,Fixed Amortizing Bon,,BDGLT,Uk Gilts,0,0, 17 , -   , -   ADES,Fixed Amortizing Bon,,BDGLX,Gilts,0,0, 2 , -   , -   ADES,Fixed Amortizing Bon,,BDONG,Other Bonds,0,0, 18 , -   , -   AOTH,Revolver,RP_Commitment not LOC,BDFRI,Frns Issued,0.57,0.57, 2 , -   , -   AOTH,Revolver,RP_Commitment not LOC,FISDF,Fiscal Default,0.57,0.57, 37 , -   , -   AOTH,Revolver,RP_Commitment not LOC,PROVN,Provisions,0.57,0.57, 2 , -   , -   ATRB,Fixed Amortizing Bon,,BILTR,Treasury Bills,0,0, 1 , -   , -   LSDA,Revolver,RP_Commitment not LOC,SUBPT,Deposits,0.57,0.57, 13 ,"-36,903,625 ", -   MGAT,Missing,,ULBOB,BAIL BOND,0,0, 1 , -   , -   MGAT,Missing,,ULCAR,CARNETS & CUSTOMS GUARANTEES,0,0, 48 ," 375,045 ", -   MGAT,Missing,,ULCOG,COURT GUARANTEE,0,0, 2 ," 35,000 ", -   MGAT,Missing,,ULFRG,FREIGHT GUARANTEE,0,0, 1 ," 2,000 ", -   MGAT,Missing,,ULIAG,INTERVENT BOARD AGRIC PROD GTEE,0,0, 5 , -   , -   MGAT,Missing,,ULMBG,MEMBERSHIP GUARANTEE,0,0, 1 , -   , -   MGAT,Missing,,ULMQG,,0,0, 1 , -   , -   MGAT,Missing,,ULPAB,PERFORMANCE BOND,0,0, 238 ," 16,912,834 ", -   MGAT,Missing,,ULPYG,PAYMENT GUARANTEE OR BOND,0,0, 9 ," 25,521 ", -   MGAT,Missing,,ULRMG,RETENTION MONEYS GUARANTEE,0,0, 8 ," 210,959 ", -   
 MGAT,Missing,,ULTAB,TENDER BOND,0,0, 26 ," 805,545 ", -   
 MGAT,Missing,,ULTDB,TRADE DEBT BOND,0,0, 26 ," 203,297 ", -   
 MGAT,Missing,,ULTSG,TRUST AGREEMENT RE TICKET SALES,0,0, 5 ," 8,000 ", -   
@@ -301,4 +232,3 @@ UPSL,Revolver,,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57, 14 , -   , -
 UPSL,Revolver,RP_Undrawn Commitments,UPSL,Undrawn - Payment Settlement Limit,0.57,0.57, 16 , -   , -   
 USWP,Revolver,,USWP,Undrawn - Swap Facilities,0.57,0.57, 1 , -   , -   
 USWP,Revolver,RP_Undrawn Commitments,USWP,Undrawn - Swap Facilities,0.57,0.57, 2 , -   , -   
-,,,,,,,,,
