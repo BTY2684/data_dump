@@ -1,0 +1,303 @@
+"group","type","desc","local","lp_desc","ccf","f_ccf","count","bal","exp"
+"AODS","Revolver","RP_Commitment not LOC","CUA","",0.57,"0.57",60124,38,165
+"AODS","Revolver","RP_Commitment not LOC","355","LE Negotiated IBCA",0.57,"0.57",11042,6,102
+"AODS","Revolver","RP_Commitment not LOC","344","SME Negotiated Reg IBCA",0.57,"0.57",62920,41,59
+"AODS","Revolver","RP_Commitment not LOC","349","SBT Regulated IBCA",0.57,"0.57",43680,143,133
+"AODS","Revolver","RP_Commitment not LOC","354","LE Negotiated NIBCA",0.57,"0.57",1179,192,69
+"AODS","Revolver","RP_Commitment not LOC","350","SME Negotiated NIBCA",0.57,"0.57",4627,64,54
+"AODS","Revolver","RP_Commitment not LOC","356","SME Negotiated IBCA",0.57,"0.57",1332,101,6
+"AODS","Revolver","RP_Commitment not LOC","67","SME C/A DIRECT",0.57,"0.57",2890,103,73
+"AODS","Revolver","RP_Commitment not LOC","100","Community IBCA",0.57,"0.57",438,35,8
+"AODS","Revolver","RP_Commitment not LOC","359","FSA SME Negotiated Reg IBCA",0.57,"0.57",314,193,205
+"AODS","Revolver","RP_Commitment not LOC","363","FSA SBT Regulated IBCA",0.57,"0.57",259,174,166
+"AODS","Revolver","RP_Commitment not LOC","423","Switcher Neg Reg IBCA",0.57,"0.57",174,142,157
+"AODS","Revolver","RP_Commitment not LOC","346","SBT NIBCA",0.57,"0.57",159,96,57
+"AODS","Revolver","RP_Commitment not LOC","357","Switchers NIBCA",0.57,"0.57",254,39,38
+"AODS","Missing","","344","SME Negotiated Reg IBCA",0,"0.57",13,32,31
+"AODS","Revolver","RP_Commitment not LOC","422","Start Up Neg NIBCA",0.57,"0.57",56,112,164
+"AODS","Revolver","RP_Commitment not LOC","EFT","HUB C/A FOR EFT",0.57,"0.57",98781,117,130
+"AODS","Revolver","RP_Commitment not LOC","57","START UP DIRECT CR INT",0.57,"0.57",424,139,113
+"AODS","Revolver","RP_Commitment not LOC","348","Switcher Reg IBCA",0.57,"0.57",51,31,98
+"AODS","Revolver","RP_Commitment not LOC","364","FSA SME Negotiated NIBCA",0.57,"0.57",8,106,94
+"AODS","Missing","","350","SME Negotiated NIBCA",0,"0.57",3,23,52
+"AODS","Revolver","RP_Commitment not LOC","415","FSA SME Negotiated IBCA",0.57,"0.57",1,,12
+"AODS","Missing","","355","LE Negotiated IBCA",0,"0.57",1,5,3
+"AODS","Revolver","RP_Commitment not LOC","97","FSA SME C/A DIRECT",0.57,"0.57",6,18,195
+"AODS","Revolver","RP_Commitment not LOC","62","SWITCHER DIRECT",0.57,"0.57",119,53,185
+"AODS","Missing","","349","SBT Regulated IBCA",0,"0.57",10,166,179
+"AODS","Revolver","RP_Commitment not LOC","91","Start Up NIBCA",0.57,"0.57",12,7,154
+"AODS","Revolver","RP_Commitment not LOC","64","SME C/A DIRECT ABATEMENT",0.57,"0.57",9,164,146
+"AODS","Revolver","RP_Commitment not LOC","360","FSA SBT NIBCA",0.57,"0.57",1,158,141
+"AODS","Revolver","RP_Commitment not LOC","101","Community NIBCA",0.57,"0.57",4,21,115
+"AODS","Revolver","RP_Commitment not LOC","362","FSA Switcher Reg IBCA",0.57,"0.57",1,184,50
+"AODS","Missing","","363","FSA SBT Regulated IBCA",0,"0.57",1,,149
+"AODS","Revolver","RP_Commitment not LOC","347","Start Up Reg IBCA",0.57,"0.57",2,,88
+"AODS","Revolver","RP_Commitment not LOC","CRO","",0.57,"0.57",62,9,169
+"AODS","Revolver","RP_Commitment not LOC","424","Switcher Neg IBCA",0.57,"0.57",1,,70
+"AODS","Missing","","344","SME Negotiated Reg IBCA",0,"0",2,,2
+"AODS","Revolver","","67","SME C/A DIRECT",0.57,"0.57",1,,2
+"AODS","Revolver","","344","SME Negotiated Reg IBCA",0.57,"0.57",110,,2
+"AODS","Revolver","","346","SBT NIBCA",0.57,"0.57",1,,2
+"AODS","Revolver","","349","SBT Regulated IBCA",0.57,"0.57",88,,2
+"AODS","Revolver","","350","SME Negotiated NIBCA",0.57,"0.57",13,,2
+"AODS","Revolver","","355","LE Negotiated IBCA",0.57,"0.57",10,,2
+"AODS","Revolver","","359","FSA SME Negotiated Reg IBCA",0.57,"0.57",1,,2
+"AODS","Revolver","","363","FSA SBT Regulated IBCA",0.57,"0.57",1,,2
+"AODS","Revolver","","CUA","",0.57,"0.57",4,,2
+"AODS","Revolver","RP_Commitment not LOC","39","FSA START UP DIRECT",0.57,"0.57",1,,2
+"AODS","Revolver","RP_Commitment not LOC","425","Start Up Neg Reg IBCA",0.57,"0.57",1,,2
+"AODS","Revolver","RP_Commitment not LOC","MID","",0.57,"0.57",15,,2
+"ALNS","Term Loan","RP_Loan and Deposit","MMLYA","",0,"0.5",1819,12,16
+"ALNS","Term Loan","RP_Loan and Deposit","MMLYA","",0,"0",1666,205,4
+"ALNS","Term Loan","RP_Loan and Deposit","607","Business Loans Var. Rate",0,"0",32358,149,129
+"ALNS","Term Loan","RP_Loan and Deposit","TLT","",0,"0",175,186,121
+"ALNS","Term Loan","RP_Loan and Deposit","CRN","",0,"0",3150,180,82
+"ALNS","Term Loan","RP_Loan and Deposit","CDP","",0,"0",19311,178,78
+"ALNS","Term Loan","RP_Loan and Deposit","TRFIN","Trade Finance",0,"0",280,94,72
+"ALNS","Term Loan","RP_Loan and Deposit","605","Commercial Mortgages",0,"0",6890,61,36
+"ALNS","Revolver","RP_Loan and Deposit","MMLYB","",0,"0",69,217,202
+"ALNS","Term Loan","RP_Loan and Deposit","LOF","",0,"0",24,214,197
+"ALNS","Revolver","RP_Loan and Deposit","MMLYA","",0,"0",48,196,162
+"ALNS","Term Loan","RP_Loan and Deposit","604","Loans - Business",0,"0",3418,147,123
+"ALNS","Term Loan","RP_Loan and Deposit","MSS","",0,"0",5576,129,122
+"ALNS","Term Loan","RP_Loan and Deposit","LNCOR","Corporate Loans",0,"0",35,136,119
+"ALNS","Term Loan","RP_Loan and Deposit","CIL","Import Loans - Clean Import Loans ( Floating Rate )",0,"0",8672,105,85
+"ALNS","Revolver","RP_Loan and Deposit","TRFIN","Trade Finance",0,"0",13,90,66
+"ALNS","Term Loan","RP_Loan and Deposit","MMLYB","",0,"0",22,81,56
+"ALNS","Term Loan","RP_Loan and Deposit","TRFIE","Trade Finance - ECGD Loans",0,"0",53,73,46
+"ALNS","Term Loan","RP_Loan and Deposit","LNFNM","Loans",0,"0",21,71,42
+"ALNS","Term Loan","RP_Loan and Deposit","XLN","",0,"0",12,188,35
+"ALNS","Term Loan","RP_Loan and Deposit","701","Special Rate Lending Busi",0,"0",2688,56,33
+"ALNS","Revolver","RP_Loan and Deposit","607","Business Loans Var. Rate",0,"0",480,42,27
+"ALNS","Term Loan","RP_Loan and Deposit","620","Commercial Invest Prop Mtg",0,"0",517,36,24
+"ALNS","Term Loan","RP_Loan and Deposit","ETN","",0,"0",25,182,168
+"ALNS","Term Loan","RP_Loan and Deposit","613","FSA Business Loans Var Rate",0,"0",596,161,134
+"ALNS","Term Loan","RP_Loan and Deposit","LAI","Import Loans - Loans Against Imports",0,"0",2065,146,124
+"ALNS","Term Loan","RP_Loan and Deposit","CCD","",0,"0",63,14,111
+"ALNS","Term Loan","RP_Loan and Deposit","621","Resident Invest Prop Mtg",0,"0",271,126,108
+"ALNS","Revolver","RP_Loan and Deposit","620","Commercial Invest Prop Mtg",0,"0",82,104,84
+"ALNS","Term Loan","RP_Loan and Deposit","BALCL","Call Loans",0,"0",9,95,74
+"ALNS","Term Loan","RP_Loan and Deposit","MCQ","",0,"0",418,47,65
+"ALNS","Revolver","RP_Loan and Deposit","605","Commercial Mortgages",0,"0",76,85,58
+"ALNS","Term Loan","RP_Loan and Deposit","612","FSA Commercial Mortgages",0,"0",128,78,43
+"ALNS","Term Loan","RP_Loan and Deposit","MLAIR","",0,"0",6,26,18
+"ALNS","Term Loan","RP_Loan and Deposit","529","CCA Small Bus Loan",0,"0",2414,70,5
+"ALNS","Revolver","RP_Loan and Deposit","621","Resident Invest Prop Mtg",0,"0",60,219,203
+"ALNS","Revolver","RP_Loan and Deposit","TRFIE","Trade Finance - ECGD Loans",0,"0",1,216,200
+"ALNS","Term Loan","RP_Loan and Deposit","DCQ","",0,"0",32,67,180
+"ALNS","Revolver","RP_Loan and Deposit","604","Loans - Business",0,"0",34,187,177
+"ALNS","Term Loan","RP_Loan and Deposit","618","CCA FLEXIBLE BUSINESS LOAN",0,"0",942,202,170
+"ALNS","Term Loan","RP_Loan and Deposit","CPO","",0,"0",2105,170,163
+"ALNS","Term Loan","RP_Loan and Deposit","610","Managed Loans Business >25K",0,"0",539,203,152
+"ALNS","Term Loan","RP_Loan and Deposit","319","CCA Small Business",0,"0",736,171,120
+"ALNS","Term Loan","RP_Loan and Deposit","617","CCA Loans - Business",0,"0",437,153,91
+"ALNS","Term Loan","RP_Loan and Deposit","603","Business Develop Loans",0,"0",39,93,67
+"ALNS","Term Loan","RP_Loan and Deposit","105","CCA Small Bus Loan",0,"0",286,107,26
+"ALNS","Term Loan","RP_Loan and Deposit","544","CCA Small Business Loan Deferred",0,"0",224,69,192
+"ALNS","Term Loan","RP_Loan and Deposit","543","Ltd Co Small Business Loan Deferred",0,"0",217,72,190
+"ALNS","Term Loan","RP_Loan and Deposit","PNP","Import Loans - Clean Import Loans ( Fixed Rate )",0,"0",112,179,176
+"ALNS","Term Loan","RP_Loan and Deposit","322","CCA Small Bus Ln",0,"0",93,213,167
+"ALNS","Term Loan","RP_Loan and Deposit","174","Personal Loan Jan Hol Staff",0,"0",97,204,153
+"ALNS","Revolver","RP_Loan and Deposit","613","FSA Business Loans Var Rate",0,"0",4,168,151
+"ALNS","Term Loan","RP_Loan and Deposit","218","Ltd Co SBL Def - PP",0,"0",61,176,143
+"ALNS","Term Loan","RP_Loan and Deposit","507","Business Loans Fixed Rate",0,"0",12,163,136
+"ALNS","Term Loan","RP_Loan and Deposit","601","Loans - Personal",0,"0",2,91,71
+"ALNS","Term Loan","RP_Loan and Deposit","127","Ltd Co SBL Def Spec",0,"0",46,144,62
+"ALNS","Term Loan","RP_Loan and Deposit","734","CCA Loans - Personal",0,"0",4,66,55
+"ALNS","Term Loan","RP_Loan and Deposit","163","CCA SBL Deferred",0,"0",51,151,48
+"ALNS","Term Loan","RP_Loan and Deposit","324","CCA Small Bus Ln",0,"0",31,115,45
+"ALNS","Revolver","RP_Loan and Deposit","618","CCA FLEXIBLE BUSINESS LOAN",0,"0",12,19,14
+"ALNS","Revolver","RP_Loan and Deposit","610","Managed Loans Business >25K",0,"0",1,16,11
+"ALNS","Revolver","RP_Loan and Deposit","701","Special Rate Lending Busi",0,"0",2,220,206
+"ALNS","Term Loan","RP_Loan and Deposit","209","Ltd Co SBL Def Spec",0,"0",16,45,189
+"ALNS","Term Loan","RP_Loan and Deposit","622","FSA Res Invest Prop Mtg",0,"0",1,183,173
+"ALNS","Term Loan","RP_Loan and Deposit","703","Special Rate Lending Pers",0,"0",1,122,109
+"ALNS","Term Loan","RP_Loan and Deposit","546","CCA Small Business Loan Jan Hol",0,"0",6,135,79
+"ALNS","Revolver","RP_Loan and Deposit","529","CCA Small Bus Loan",0,"0",1,55,34
+"ALNS","Term Loan","RP_Loan and Deposit","321","CCA SBL Jan Hol - PP",0,"0",3,77,23
+"ALNS","Revolver","RP_Loan and Deposit","319","CCA Small Business",0,"0",1,175,172
+"ALNS","Term Loan","RP_Loan and Deposit","545","Ltd Co Small Business Loan Jan Hol",0,"0",2,86,104
+"ALNS","Term Loan","RP_Loan and Deposit","CDF","",0,"0",139,123,17
+"ALNS","Missing","","604","Loans - Business",0,"0",5,24,2
+"ALNS","Missing","","605","Commercial Mortgages",0,"0",4,181,2
+"ALNS","Missing","","607","Business Loans Var. Rate",0,"0",51,185,2
+"ALNS","Missing","","613","FSA Business Loans Var Rate",0,"0",4,200,2
+"ALNS","Missing","","618","CCA FLEXIBLE BUSINESS LOAN",0,"0",2,57,2
+"ALNS","Missing","","620","Commercial Invest Prop Mtg",0,"0",10,98,2
+"ALNS","Missing","","621","Resident Invest Prop Mtg",0,"0",10,140,2
+"ALNS","Missing","","CDP","",0,"0",1,,2
+"ALNS","Missing","","MMLYA","",0,"0",6,27,2
+"ALNS","Revolver","","529","CCA Small Bus Loan",0,"0",1,,2
+"ALNS","Revolver","","604","Loans - Business",0,"0",33,,2
+"ALNS","Revolver","","605","Commercial Mortgages",0,"0",74,,2
+"ALNS","Revolver","","607","Business Loans Var. Rate",0,"0",450,,2
+"ALNS","Revolver","","613","FSA Business Loans Var Rate",0,"0",4,,2
+"ALNS","Revolver","","618","CCA FLEXIBLE BUSINESS LOAN",0,"0",11,,2
+"ALNS","Revolver","","620","Commercial Invest Prop Mtg",0,"0",82,,2
+"ALNS","Revolver","","621","Resident Invest Prop Mtg",0,"0",60,,2
+"ALNS","Revolver","","CDP","",0,"0",1,,2
+"ALNS","Revolver","","MMLYA","",0,"0",42,,2
+"ALNS","Revolver","RP_Loan and Deposit","CDP","",0,"0",1,62,2
+"ALNS","Term Loan","","BALCL","Call Loans",0,"0",2,210,2
+"ALNS","Term Loan","","TLT","",0,"0",1,33,2
+"ALNS","Term Loan","RP_Loan and Deposit","165","CCA Co SBL Jan Hol",0,"0",1,195,2
+"ALNS","Term Loan","RP_Loan and Deposit","219","LTD CO SMALL BUS LN JAN HOL PP",0,"0",1,221,2
+"ALNS","Term Loan","RP_Loan and Deposit","531","CCA Personal Loan",0,"0",1,137,2
+"ALNS","Term Loan","RP_Loan and Deposit","LN","",0,"0",608,108,2
+"ALNS","Term Loan","RP_Loan and Deposit","LNSPD","Special Schemes Building Loan",0,"0",114,2,2
+"ALNS","Term Loan","RP_Loan and Deposit","MLN","",0,"0",1,37,2
+"MAAT","Letter of Credit","RP_TradeRel Contingency","DCS","Import DCs - Documentary Credits ( Standby )",1,"1   34",533,92,64
+"MAAT","Letter of Credit","RP_TradeRel Contingency","DPC","Import DCs - Documentary Credits ( Usance )",1,"1   34",3939,34,100
+"MAAT","Letter of Credit","RP_TradeRel Contingency","DC","Import DCs - Import Sight Documentary Credit",1,"1   34",2790,40,87
+"MAAT","Letter of Credit","RP_TradeRel Contingency","DPB","Import DC bills - Usance Bills drawn under DCs",1,"1   34",3659,50,75
+"MAAT","Letter of Credit","RP_TradeRel Contingency","COC","Export DC Bills - All Bills drawn under Confirmed DCs",1,"1   34",555,65,37
+"MAAT","Letter of Credit","RP_TradeRel Contingency","ULCHQ","",1,"1",1031,177,21
+"MAAT","Letter of Credit","RP_TradeRel Contingency","MEMON","Bill Lending HIE Memos",1,"1",701,20,15
+"MAAT","Revolver","RP_TradeRel Contingency","DCS","Import DCs - Documentary Credits ( Standby )",1,"1    34",11,212,194
+"MAAT","Letter of Credit","RP_TradeRel Contingency","BR","Import Bill Receivable",1,"1   34",489,84,148
+"MAAT","Letter of Credit","RP_TradeRel Contingency","DO","Other - Delivery Order",1,"1   34",200,60,161
+"MAAT","Letter of Credit","RP_TradeRel Contingency","AVL","Import Non DC Bills - Avalised Non-DC Bill",1,"1   34",68,114,101
+"MAAT","Letter of Credit","RP_TradeRel Contingency","BDN","Export Non DC Bills - Financed Bills drawn under other banks co",1,"1   34",4,68,40
+"MAAT","Letter of Credit","RP_TradeRel Contingency","ULHCW","Hold Covered telexes re 20% weighted documentary credits",1,"1   22",2,74,181
+"MAAT","Missing","","ULCHQ","",0,"0",568,28,2
+"MGAP","Letter of Credit","RP_Direct Credit Sub","SDC","Standby DC - financial guarantee",1,"1      34",408,194,201
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULFAG","FACILITY GUARANTEE",1,"1      22",312,208,199
+"MGAP","Letter of Credit","RP_Direct Credit Sub","FNG","All Others",1,"1      22",465,150,155
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULVAT","CUSTOMS & EXCISE DEFERRED DUTY/VAT BOND",1,"1      22",2135,132,132
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULFIG","FINANCIAL INSTRUMENTS GUARANTEE",1,"1      22",186,211,22
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULAPG","ADVANCE PAYT GUARANTEE",1,"0.5    22",265,88,9
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULRTG","RENT GUARANTEE",1,"1      22",173,152,182
+"MGAP","Revolver","RP_Direct Credit Sub","FNG","All Others",1,"1",13,159,142
+"MGAP","Letter of Credit","RP_Direct Credit Sub","APG","Advance Payment Guarantee",1,"0.5    22",169,189,135
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULHCT","HOLD COVERED TELEX RE ADVANCES",1,"1      22",32,165,118
+"MGAP","Letter of Credit","RP_Direct Credit Sub","GTE","Bail Bond, Salvage Bond and Deferred Duty Bond",1,"1      22",63,63,83
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULLOD","LOST INSTRUMENTS INDEMNITIES",1,"1      22",77,138,77
+"MGAP","Letter of Credit","RP_Direct Credit Sub","SDP","Import DCs - Standby Credit Bought",1,"1      34",1,190,32
+"MGAP","Letter of Credit","RP_Direct Credit Sub","SBF","Export DCs - Export Stand-By DC",1,"1      34",18,48,30
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULLAG","LLOYDS GUARANTEE",1,"1      22",23,11,10
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULATO","AIR TRAVEL ORG LICENCE BOND",1,"1      22",67,25,204
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULABT","ASSN OF BRITISH TRAVEL AGENTS BOND",1,"1      22",69,173,188
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULPPG","CROWN AGENTS GTEES RE PENSION",1,"1      22",5,141,103
+"MGAP","Revolver","RP_Direct Credit Sub","SDC","Standby DC - financial guarantee",1,"1",2,89,63
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULSMG","SECURITIES MARKET GUARANTEE",1,"1      22",1,52,51
+"MGAP","Revolver","RP_Direct Credit Sub","ULFAG","FACILITY GUARANTEE",1,"1",2,54,107
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULDEL","",1,"1",8,83,68
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULFPG","FRESH PRODUCE GUARANTEE",1,"1      22",11,218,7
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULMOP","MAIL ORDER PROTECTION SCHEME GUARANTEE",1,"1      22",3,162,178
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULAVL","",1,"1",1,209,193
+"MGAP","Letter of Credit","RP_Direct Credit Sub","ULMBC","",1,"1",1,125,110
+"MGAP","Letter of Credit","RP_Direct Credit Sub","IDW","Import DCs - Documentary Credits ( Sight & Usance ) ( Cash Cove",1,"1      34",268,116,2
+"MGAP","Missing","","ULABT","ASSN OF BRITISH TRAVEL AGENTS BOND",0,"1      22",5,157,2
+"MGAP","Missing","","ULAPG","ADVANCE PAYT GUARANTEE",0,"0.5    22",45,124,2
+"MGAP","Missing","","ULATO","AIR TRAVEL ORG LICENCE BOND",0,"0",20,156,2
+"MGAP","Missing","","ULAVL","",0,"0",1,,2
+"MGAP","Missing","","ULDEL","",0,"0",3,191,2
+"MGAP","Missing","","ULFAG","FACILITY GUARANTEE",0,"0",47,8,2
+"MGAP","Missing","","ULFIG","FINANCIAL INSTRUMENTS GUARANTEE",0,"0",87,22,2
+"MGAP","Missing","","ULFPG","FRESH PRODUCE GUARANTEE",0,"0",11,155,2
+"MGAP","Missing","","ULHCT","HOLD COVERED TELEX RE ADVANCES",0,"0",6,,2
+"MGAP","Missing","","ULLAG","LLOYDS GUARANTEE",0,"0",6,49,2
+"MGAP","Missing","","ULLOD","LOST INSTRUMENTS INDEMNITIES",0,"0",12,109,2
+"MGAP","Missing","","ULMOP","MAIL ORDER PROTECTION SCHEME GUARANTEE",0,"0",4,4,2
+"MGAP","Missing","","ULPPG","CROWN AGENTS GTEES RE PENSION",0,"0",1,,2
+"MGAP","Missing","","ULRTG","RENT GUARANTEE",0,"0",19,100,2
+"MGAP","Missing","","ULVAT","CUSTOMS & EXCISE DEFERRED DUTY/VAT BOND",0,"0",123,121,2
+"MGAP","Revolver","","ULFAG","FACILITY GUARANTEE",1,"1",2,,2
+"","","","","",0,"0",75,198,99
+"ULNS","Letter of Credit","RP_Undrawn Commitments","ULNS","Undrawn - Loans",0.57,"0.5",710,,186
+"ADES","Fixed Amortizing Bon","RP_Loan and Deposit","BDONG","Other Bonds",0,"0",718,43,97
+"ADES","Fixed Amortizing Bon","RP_Loan and Deposit","BDOGO","Government Bonds",0,"0",42,154,39
+"ADES","Fixed Amortizing Bon","RP_Loan and Deposit","CDPSM","CD Purchases/Sales",0,"0",14,,191
+"ATRB","Fixed Amortizing Bon","RP_Loan and Deposit","BILTR","Treasury Bills",0,"0",17,169,144
+"UCTA","Letter of Credit","RP_Undrawn Commitments","UCTA","Undrawn - Composite Limit - On Balance Sheet",0.57,"0.57",88,,128
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULPAB","PERFORMANCE BOND",1,"0.5    22",1521,207,127
+"UGTE","Letter of Credit","RP_Undrawn Direct Credit Su","UGTE","Undrawn - Guarantees Issued",0.22,"0.57",678,,105
+"ABCB","Term Loan","RP_Commitment not LOC","NOSTR","Nostros",0.57,"0.57",173,30,29
+"UPSL","Letter of Credit","RP_Undrawn Commitments","UPSL","Undrawn - Payment Settlement Limit",0.57,"0.57",1011,,25
+"MDCS","Letter of Credit","RP_Standby Letter of Credit","DCC","Export DCs - Documentary Credits ( Confirmed )",1,"1    34",491,29,19
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULCAR","CARNETS & CUSTOMS GUARANTEES",1,"0.5    22",294,167,187
+"UO/D","Letter of Credit","RP_Undrawn Commitments","UO/D","Undrawn - Overdraft",0.57,"0.57",89,,184
+"MGAT","Letter of Credit","RP_TransRel Contingency","PEB","Performance Bond",1,"0.5    22",668,17,175
+"MGAT","Letter of Credit","RP_TransRel Contingency","SGT","Other - Shipping Guarantees",1,"1    34",45,87,174
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULTAB","TENDER BOND",1,"0.5    22",223,131,160
+"UCCD","Letter of Credit","RP_Undrawn Commitments","UCCD","Undrawn - Credit Card Limit",0.57,"0.57",1920,,156
+"UTSL","Letter of Credit","RP_Undrawn Commitments","UTSL","Undrawn - Treasury Settlement",0.57,"0.57",147,,147
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULRMG","RETENTION MONEYS GUARANTEE",1,"0.5    22",60,113,138
+"UB/P","Letter of Credit","RP_Undrawn Note Issuance Fa","UB/P","Undrawn - Bills Purchased By The HSBC Group",0.75,"0.57",672,,93
+"ULSG","Letter of Credit","RP_Undrawn Commitments","ULSG","Undrawn - Leasing",0.57,"0.57",14,,92
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULPYG","PAYMENT GUARANTEE OR BOND",1,"0.5    22",64,82,89
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULTDB","TRADE DEBT BOND",1,"0.5    22",213,110,86
+"LSDA","Revolver","RP_Commitment not LOC","BALND","Notice Deposits",0.57,"0.57",8439,13,60
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULIAG","INTERVENT BOARD AGRIC PROD GTEE",1,"0.5    22",46,118,53
+"ULNS","Revolver","RP_Undrawn Commitments","ULNS","Undrawn - Loans",0.57,"0.57",72,,44
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULTSG","TRUST AGREEMENT RE TICKET SALES",1,"0.5    22",64,206,171
+"UIMP","Letter of Credit","RP_Undrawn TradeRel Conting","UIMP","Undrawn - Import Line",0.34,"0.57",5,,158
+"UFEX","Letter of Credit","RP_Undrawn Commitments","UFEX","Undrawn - Foreign Exchange",0.57,"0.57",61,,140
+"LCUN","Term Loan","RP_Loan and Deposit","14","Start Up Teg NIBCA",0,"0.57",713,130,137
+"UCTA","Revolver","RP_Undrawn Commitments","UCTA","Undrawn - Composite Limit - On Balance Sheet",0.57,"0.57",4,,117
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULCOG","COURT GUARANTEE",1,"0.5    22",13,133,114
+"USWP","Letter of Credit","RP_Undrawn Commitments","USWP","Undrawn - Swap Facilities",0.57,"0.57",2,,106
+"AOTH","Revolver","RP_Commitment not LOC","SUSP","Suspense - Sundry Debitors / Creditors",0.57,"0.57",12,102,81
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULTAT","TRUST AGREEMENT RE THOS COOK TC'S",1,"0.5    22",4,160,28
+"MGAT","Revolver","RP_TransRel Contingency","ULPAB","PERFORMANCE BOND",1,"1",29,201,198
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULBOB","BAIL BOND",1,"0.5    22",3,59,196
+"MGAT","Letter of Credit","RP_TransRel Contingency","TEB","Tender Bond",1,"0.5    22",27,51,183
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULMBG","MEMBERSHIP GUARANTEE",1,"1    22",9,172,159
+"UGTE","Revolver","RP_Undrawn Direct Credit Su","UGTE","Undrawn - Guarantees Issued",0.22,"0.22",22,,145
+"LSDA","Revolver","RP_Commitment not LOC","75","351N Sara",0.57,"0.57",11,148,139
+"UO/D","Revolver","RP_Undrawn Commitments","UO/D","Undrawn - Overdraft",0.57,"0.57",4,,131
+"MDCS","Letter of Credit","RP_Standby Letter of Credit","RIC","Export DCs - Confirmed Reimbursement",1,"1    34",7,97,76
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULFRG","FREIGHT GUARANTEE",1,"0.5    22",1,76,47
+"MGAT","Revolver","RP_TransRel Contingency","ULTSG","TRUST AGREEMENT RE TICKET SALES",1,"1",1,215,13
+"AOTH","Revolver","RP_Commitment not LOC","94","Security Realised",0.57,"0.57",1,145,125
+"LSDA","Revolver","RP_Commitment not LOC","240","CPDA",0.57,"0.57",459,15,112
+"AHML","Revolver","RP_Loan and Deposit","284","Interest Only Mortgages",0,"0",1,111,96
+"LCUN","Term Loan","RP_Loan and Deposit","14","Start Up Teg NIBCA",0,"0",14,134,95
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULSAG","SALVAGE GUARANTEE",1,"0.5    22",2,162,80
+"UMMK","Letter of Credit","RP_Undrawn Commitments","UMMK","Undrawn - Money Market Placing",0.57,"0.57",1,,61
+"UB/P","Revolver","RP_Undrawn Note Issuance Fa","UB/P","Undrawn - Bills Purchased By The HSBC Group",0.75,"0.75",1,,41
+"MGAT","Letter of Credit","RP_TransRel Contingency","ULPCC","PAYT OF CUST CHQ TO CUSTOMS & EX",1,"1    22",1,3,20
+"AOTH","Revolver","RP_Commitment not LOC","154","Invoice Finance Trust",0.57,"0.57",41,2,150
+"AHML","Revolver","RP_Loan and Deposit","232","OLCS - Mtge Repaym Var",0,"0",2,10,126
+"LCUN","Term Loan","RP_Loan and Deposit","13","FSA Start Up Reg NIBCA",0,"0",2,75,49
+"LSDA","Revolver","RP_Commitment not LOC","335","Premium Business Account",0.57,"0.57",17,119,116
+"LSDA","Revolver","RP_Commitment not LOC","78","Stockbroker Client D/A",0.57,"0.57",1,,90
+"ABCB","Term Loan","","NOSTR","Nostros",0.57,"0.57",1,44,2
+"ACCA","Revolver","RP_Revolving Purchased Faci","MAVCD","Mastercard And VISA Cards",0.57,"0.57",5,46,2
+"ADES","Fixed Amortizing Bon","","BDGLT","Uk Gilts",0,"0",17,,2
+"ADES","Fixed Amortizing Bon","","BDGLX","Gilts",0,"0",2,,2
+"ADES","Fixed Amortizing Bon","","BDONG","Other Bonds",0,"0",18,,2
+"AOTH","Revolver","RP_Commitment not LOC","BDFRI","Frns Issued",0.57,"0.57",2,,2
+"AOTH","Revolver","RP_Commitment not LOC","FISDF","Fiscal Default",0.57,"0.57",37,,2
+"AOTH","Revolver","RP_Commitment not LOC","PROVN","Provisions",0.57,"0.57",2,,2
+"ATRB","Fixed Amortizing Bon","","BILTR","Treasury Bills",0,"0",1,,2
+"LSDA","Revolver","RP_Commitment not LOC","SUBPT","Deposits",0.57,"0.57",13,127,2
+"MGAT","Missing","","ULBOB","BAIL BOND",0,"0",1,,2
+"MGAT","Missing","","ULCAR","CARNETS & CUSTOMS GUARANTEES",0,"0",48,128,2
+"MGAT","Missing","","ULCOG","COURT GUARANTEE",0,"0",2,120,2
+"MGAT","Missing","","ULFRG","FREIGHT GUARANTEE",0,"0",1,76,2
+"MGAT","Missing","","ULIAG","INTERVENT BOARD AGRIC PROD GTEE",0,"0",5,,2
+"MGAT","Missing","","ULMBG","MEMBERSHIP GUARANTEE",0,"0",1,,2
+"MGAT","Missing","","ULMQG","",0,"0",1,,2
+"MGAT","Missing","","ULPAB","PERFORMANCE BOND",0,"0",238,58,2
+"MGAT","Missing","","ULPYG","PAYMENT GUARANTEE OR BOND",0,"0",9,99,2
+"MGAT","Missing","","ULRMG","RETENTION MONEYS GUARANTEE",0,"0",8,80,2
+"MGAT","Missing","","ULTAB","TENDER BOND",0,"0",26,199,2
+"MGAT","Missing","","ULTDB","TRADE DEBT BOND",0,"0",26,79,2
+"MGAT","Missing","","ULTSG","TRUST AGREEMENT RE TICKET SALES",0,"0",5,197,2
+"MGAT","Revolver","","ULPAB","PERFORMANCE BOND",1,"1",26,,2
+"MGAT","Revolver","","ULTSG","TRUST AGREEMENT RE TICKET SALES",1,"1",1,,2
+"UB/P","Letter of Credit","RP_Undrawn Note Issuance Fa","UB/P","Undrawn - Bills Purchased By The HSBC Group",0.75,"0.75",1,,2
+"UB/P","Revolver","","UB/P","Undrawn - Bills Purchased By The HSBC Group",0.75,"0.75",1,,2
+"UCCD","Revolver","","UCCD","Undrawn - Credit Card Limit",0.57,"0.57",70,,2
+"UCCD","Revolver","RP_Undrawn Commitments","UCCD","Undrawn - Credit Card Limit",0.57,"0.57",70,,2
+"UCTA","Revolver","","UCTA","Undrawn - Composite Limit - On Balance Sheet",0.57,"0.57",3,,2
+"UGTE","Revolver","","UGTE","Undrawn - Guarantees Issued",0.22,"0.22",21,,2
+"ULNS","Letter of Credit","RP_Undrawn Commitments","ULNS","Undrawn - Loans",0.57,"0.57",13,,2
+"ULNS","Revolver","","ULNS","Undrawn - Loans",0.57,"0.57",55,,2
+"UNIH","Letter of Credit","RP_Undrawn Commitments","UNIH","Undrawn - Negotiable Instrument - Trading",0.57,"0.57",2,,2
+"UO/D","Revolver","","UO/D","Undrawn - Overdraft",0.57,"0.57",3,,2
+"UPSL","Revolver","","UPSL","Undrawn - Payment Settlement Limit",0.57,"0.57",14,,2
+"UPSL","Revolver","RP_Undrawn Commitments","UPSL","Undrawn - Payment Settlement Limit",0.57,"0.57",16,,2
+"USWP","Revolver","","USWP","Undrawn - Swap Facilities",0.57,"0.57",1,,2
+"USWP","Revolver","RP_Undrawn Commitments","USWP","Undrawn - Swap Facilities",0.57,"0.57",2,,
